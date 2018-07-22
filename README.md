@@ -7,7 +7,11 @@ Read our [blog post here](https://medium.com/@uraza/how-to-use-machine-learning-
 
 ## Credits
 Project team includes:
+
 [Usman Raza](https://www.linkedin.com/in/uraza/)
+
 [Harman Shah](https://www.ischool.berkeley.edu/people/harman-shah-singh)
+
 [Ching-Yi Lin](https://www.ischool.berkeley.edu/people/ching-yi-lin)
+
 [Rohan Kar](https://www.ischool.berkeley.edu/people/rohan-kar)
